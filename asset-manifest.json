@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-web/static/css/main.c79bc7d7.css",
+    "main.js": "/react-web/static/js/main.013992a8.js",
+    "static/media/TEDxIntro.mp4": "/react-web/static/media/TEDxIntro.b8f76bc1535e410fde99.mp4",
+    "static/media/tedx-board.jpg": "/react-web/static/media/tedx-board.ecb695f15b4554825986.jpg",
+    "index.html": "/react-web/index.html",
+    "main.c79bc7d7.css.map": "/react-web/static/css/main.c79bc7d7.css.map",
+    "main.013992a8.js.map": "/react-web/static/js/main.013992a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c79bc7d7.css",
+    "static/js/main.013992a8.js"
+  ]
+}
